@@ -1,5 +1,5 @@
 # dmri_tgv2
-Demo run for reproducing our dynamic MRI reconstruction experiments.
+Demo run for reproducing the dynamic MRI reconstruction results on the provided sample case.
 
 
 This code uses the publicly available ACDC dataset. If you use the ACDC dataset, please cite:
